@@ -4,3 +4,6 @@ teste teste teste
 
 Comandos para o PULL
 
+git add .
+git commit -m "Criação de um segundo arquivo"
+git push
