@@ -2,7 +2,7 @@ ok
 22/07/2028
 teste teste teste
 
-Comandos para o PULL
+Comandos para o PUSH
 
 git add .
 git commit -m "Criação de um segundo arquivo"
